@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"slug": "arrays", "name": "Arrays", "category": "linear", "order_index": 1,
+     "default_problem_count": 10, "est_minutes_per_problem": 20, "difficulty_tier": 1, "prerequisites": []},
+    {"slug": "arrays", "name": "Arrays again", "category": "linear", "order_index": 2,
+     "default_problem_count": 10, "est_minutes_per_problem": 20, "difficulty_tier": 1, "prerequisites": []}
+  ]
+}

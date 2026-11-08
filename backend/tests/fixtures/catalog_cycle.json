@@ -1,0 +1,10 @@
+{
+  "topics": [
+    {"slug": "a", "name": "A", "category": "test", "order_index": 1,
+     "default_problem_count": 1, "est_minutes_per_problem": 10, "difficulty_tier": 1, "prerequisites": ["b"]},
+    {"slug": "b", "name": "B", "category": "test", "order_index": 2,
+     "default_problem_count": 1, "est_minutes_per_problem": 10, "difficulty_tier": 1, "prerequisites": ["c"]},
+    {"slug": "c", "name": "C", "category": "test", "order_index": 3,
+     "default_problem_count": 1, "est_minutes_per_problem": 10, "difficulty_tier": 1, "prerequisites": ["a"]}
+  ]
+}

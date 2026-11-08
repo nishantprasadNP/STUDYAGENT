@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"slug": "recursion", "name": "Recursion", "category": "fundamentals", "order_index": 1,
+     "default_problem_count": 8, "est_minutes_per_problem": 25, "difficulty_tier": 2, "prerequisites": []},
+    {"slug": "graphs-bfs-dfs", "name": "Graphs: BFS & DFS", "category": "graphs", "order_index": 2,
+     "default_problem_count": 12, "est_minutes_per_problem": 35, "difficulty_tier": 3,
+     "prerequisites": ["recursion", "queues"]}
+  ]
+}
